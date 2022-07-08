@@ -1,0 +1,21 @@
+#Impar {
+    background-color: red;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.segundo_elemento {
+    color: blue;
+    font-size: 36px;
+}
+
+.terceiro_elemento {
+    background-color: red;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-size: 26px;;
+}
+
+.quarto_elemento {
+    background-color: green;
+    font-weight: bold;
+    font-size: 24px;
+}
